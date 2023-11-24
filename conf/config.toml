@@ -1,3 +1,9 @@
 [webserver]
 host = "127.0.0.1"
 port = 8001
+
+[redis]
+host = "127.0.0.1"
+port = 6379
+password = ""
+db = 0
